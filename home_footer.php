@@ -1,7 +1,7 @@
 
 
     <div class="footer" style="margin-top: -40px;">
-        <p style="float: right;"> &copy Md. Abu Nasser Munshi, Md. Faysal, Jahadul Islam. </p>
+        <p style="float: right;"> &copy Md. Abu Nasser Munshi, 2014 </p>
       <div class="clr"></div>
     </div>
   
